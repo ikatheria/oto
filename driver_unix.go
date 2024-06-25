@@ -27,7 +27,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/ebitengine/oto/v3/internal/mux"
+	"github.com/ikatheria/oto/internal/mux"
 )
 
 type context struct {

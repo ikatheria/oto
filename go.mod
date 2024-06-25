@@ -1,4 +1,4 @@
-module github.com/ebitengine/oto/v3
+module github.com/ikatheria/oto
 
 go 1.18
 
