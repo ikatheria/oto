@@ -94,8 +94,8 @@ import (
     "time"
     "os"
 
-    "github.com/ebitengine/oto/v3"
-    "github.com/hajimehoshi/go-mp3"
+    "github.com/ikatheria/oto"
+    "github.com/ikatheria/go-mp3"
 )
 
 func main() {
@@ -178,8 +178,8 @@ import (
     "os"
     "time"
 
-    "github.com/ebitengine/oto/v3"
-    "github.com/hajimehoshi/go-mp3"
+    "github.com/ikatheria/oto/v3"
+    "github.com/ikatheria/go-mp3"
 )
 
 func main() {
