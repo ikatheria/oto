@@ -1,4 +1,4 @@
-module github.com/ikatheria/oto/v3
+module github.com/ikatheria/oto/v1
 
 go 1.22
 

@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ikatheria/oto"
+	"github.com/ikatheria/oto/v1"
 )
 
 var (

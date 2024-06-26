@@ -17,7 +17,7 @@
 package oto
 
 import (
-	"github.com/ikatheria/oto/internal/mux"
+	"github.com/ikatheria/oto/v1/internal/mux"
 )
 
 type context struct {
