@@ -15,7 +15,7 @@
 package oto
 
 import (
-	"github.com/ikatheria/oto/v1/internal/mux"
+	"github.com/ikatheria/oto/v3/internal/mux"
 )
 
 // Player is a PCM (pulse-code modulation) audio player.
