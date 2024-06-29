@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ikatheria/oto/v3/internal/mux"
+	"github.com/ikatheria/oto/v2/internal/mux"
 )
 
 var (

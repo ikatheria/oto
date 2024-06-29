@@ -94,7 +94,7 @@ import (
     "time"
     "os"
 
-    "github.com/ikatheria/oto/v3"
+    "github.com/ikatheria/oto/v2"
     "github.com/ikatheria/go-mp3"
 )
 
@@ -178,7 +178,7 @@ import (
     "os"
     "time"
 
-    "github.com/ikatheria/oto/v3"
+    "github.com/ikatheria/oto/v2"
     "github.com/ikatheria/go-mp3"
 )
 
